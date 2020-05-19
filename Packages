@@ -1,6 +1,6 @@
 Package: me.conorthedev.mitsuhaforever
 Name: MitsuhaForever
-Depends:
+Depends: 
 Version: 1.0.2
 Architecture: iphoneos-arm
 Filename: ./debs/me.conorthedev.mitsuhaforever.deb

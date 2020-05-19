@@ -1,0 +1,19 @@
+<package>
+	<id>me.conorthedev.mitsuhaforever</id>
+	<name>Mitsuha Forever</name>
+	<version>1.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Older Version of Mitsuha Forever by Conor</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
