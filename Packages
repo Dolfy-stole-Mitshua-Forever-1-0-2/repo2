@@ -6,6 +6,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/me.conorthedev.mitsuhaforever.deb
 Size: 102010
 MD5sum: fe9a47bd4aad1bee4229144a84985601
+Depiction: https://Dolfy-stole-Mitshua-Forever-1-0-2.github.io/repo/depictions/?p=me.conorthedev.mitsuhaforever
 
 Package: me.conorthedev.libmitsuha
 Name: libmitsuha
